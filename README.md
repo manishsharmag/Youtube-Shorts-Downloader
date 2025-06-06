@@ -18,10 +18,9 @@ Easily save hundreds of Shorts videos to your local folder — automatically and
 ---
 
 ## 📸 App Preview
-
-> *(Include a screenshot named `screenshot.png` in your repo to show the app UI)*  
+ 
 > Example:
-> ![Screenshot](screenshot.png)
+> ![Screenshot](Screenshot.png)
 
 ---
 
